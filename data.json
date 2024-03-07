@@ -198,9 +198,9 @@
       "username": "benjamin603",
       "repo": "piclist",
       "branch": "main",
-      "token": "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",
+      "token": "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",
       "endpoint": "",
-      "proxy": "",
+      "proxy": "http://127.0.0.1:7890",
       "interval": 60
     }
   },
